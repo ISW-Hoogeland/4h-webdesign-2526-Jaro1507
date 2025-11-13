@@ -44,7 +44,7 @@ body {
    background-color: var(--main);
 }
 header {
-
+color: #030303;
 grid-area: header;
 
 overflow: hidden;
@@ -58,11 +58,11 @@ nav {
 grid-area: nav; }
 
 main {
-
+color: #04b10f;
 grid-area: main; }
 
 footer {
-
+color: #5e80a2;
 grid-area: footer; }
 
 img {
