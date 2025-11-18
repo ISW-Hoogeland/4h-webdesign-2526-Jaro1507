@@ -68,6 +68,7 @@ grid-area: footer; }
 img {
 
    height: 125px;
+
 }
 
 h1 {
@@ -77,5 +78,8 @@ header img {
    float:left;
 }
 h2{
+   text-align: center;
+}
+.fotos {
    text-align: center;
 }
