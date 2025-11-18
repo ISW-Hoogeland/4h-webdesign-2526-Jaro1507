@@ -58,7 +58,7 @@ nav {
 grid-area: nav; }
 
 main {
-color: #6c6e6b;
+color: #030303;
 grid-area: main; }
 
 footer {
@@ -82,4 +82,13 @@ h2{
 }
 .fotos {
    text-align: center;
+}
+.pictures{
+   text-align: center;
+}
+main{
+   text-align: center;
+}
+footer{
+   text-align: end;
 }
